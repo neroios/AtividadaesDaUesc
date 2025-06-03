@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-
+#include <stdint.h>
 
 
 int main(){
@@ -14,102 +14,26 @@ int main(){
 
 
     switch (tamanho) {
-        case 1:
-            int Array[10];
-            for (int i = 0; i < 10; i++) {
-                Array[i] = ++i;
-            }
+        case 1:// 2070000 Sla, mesmo quando o compilador da erro se eu insisto alguma hora ele roda e retorna 0 ou um numero estranho
+            int Array[517500];
+                printf("%d ", sizeof(Array));
 
-            for (int i = 0; i < 10; i++) {
-                printf("%d ", Array[i]);
-            }
             break;
 
         case 2:
-            int meuArray[10][10];
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    meuArray[i][j] = j+i;
-                }
-            }
+                //tamanho maximo em 2 dimensoes 2070720 bytes
+            int meuArray[720][719];
 
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    printf("%d ", meuArray[i][j]);
-                }
-            }
-                break;
+                    printf("%d ", sizeof(meuArray));
+
+            break;
 
         case 3:
-            int minhaArray[10][10][10];
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                                minhaArray[i][j][k] = j+k+i;
-                    }
-                }
-            }
+            //tamanho maximo em 3 dimensoes 2060400 bytes
+            int minhaArray[51][101][100] = {0};
+            printf("%d", sizeof(minhaArray));
 
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                                printf("%d ", minhaArray[i][j][k]);
-                    }
-                }
-            }
-            break;
-
-        case 4:
-            int mineArray[10][10][10][10];
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                        for (int l = 0; l < 10; l++) {
-                                mineArray[i][j][k][l] = j+k+i+l;
-                        }
-                    }
-                }
-            }
-
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                        for (int l = 0; l < 10; l++) {
-                                printf("%d ", mineArray[i][j][k][l]);
-                        }
-                    }
-                }
-            }
-            break;
-        case 5:
-
-            int myArray[10][10][10][10][10];
-
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                        for (int l = 0; l < 10; l++) {
-                            for (int n = 0; n < 10; n++) {
-                                myArray[i][j][k][l][n] = j+k+i+l+n;
-                            }
-
-                        }
-                    }
-                }
-            }
-
-            for (int i = 0; i < 10; i++) {
-                for (int j = 0; j < 10; j++) {
-                    for (int k = 0; k < 10; k++) {
-                        for (int l = 0; l < 10; l++) {
-                            for (int n = 0; n < 10; n++) {
-                                printf("%d ", myArray[i][j][k][l][n]);
-                            }
-                        }
-                    }
-                }
-            }
-            break;
+           break;
     }
 
 
