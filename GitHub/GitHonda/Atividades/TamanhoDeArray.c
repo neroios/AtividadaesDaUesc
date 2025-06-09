@@ -12,6 +12,7 @@ int main(){
     printf("Qual o tamanho: ");
     scanf("%d", &tamanho);
 
+    // Deu tudo em torno de 2mb de memoria, acho que meu compilador so aguenta isso
 
     switch (tamanho) {
         case 1:// 2070000 Sla, mesmo quando o compilador da erro se eu insisto alguma hora ele roda e retorna 0 ou um numero estranho
