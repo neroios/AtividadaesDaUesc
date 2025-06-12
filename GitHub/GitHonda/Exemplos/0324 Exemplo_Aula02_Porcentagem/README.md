@@ -1,0 +1,1 @@
+Esse exemplo foi realizado para demontrar como utilizar a %[n] e algum caracter para especificar seu tipo ou identacao

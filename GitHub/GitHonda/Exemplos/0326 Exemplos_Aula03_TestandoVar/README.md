@@ -1,0 +1,1 @@
+Esse exemplo foi feito para mostar o tamanho, incrementos, e a utilizacao de variaveis no codigo

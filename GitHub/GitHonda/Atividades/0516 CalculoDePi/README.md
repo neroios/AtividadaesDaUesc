@@ -1,0 +1,1 @@
+Exercicio que atraves do calculo da razao entre a quantia de pontos dentro do cirulo em relacao ao total no quadrado. Foi realizado um calculo de tempo de execucao e da quantidade de pontos colocados dentro do quadrado 

@@ -1,0 +1,1 @@
+Foi feito um bubblesort em arrays de diversos tamanhos e ver sua relacao de tempo e tamanho. Utiliza-se de um for no programa inteiro para tirar a media de varias tentativas

@@ -1,0 +1,1 @@
+Esse exercicio mostrou os tamanhos dos tipos das variaveis e sobre a precedencia na ordem das operacoes

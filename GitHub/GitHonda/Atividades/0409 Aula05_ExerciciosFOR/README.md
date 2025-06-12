@@ -1,0 +1,1 @@
+Foi feito um exercicio no qual o FOR foi submetido a varios testes para compreender suas funcionalidades

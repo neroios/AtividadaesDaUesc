@@ -1,0 +1,1 @@
+Esse programa fala sobre como as tipagens mudam o tamanho dos seus bytes

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75804a7c-b491-4c6f-8fbe-c0ff4a156e03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Atividade7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/AtividadeAula4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/AtividadeForAula5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/BubbleSortDia0406.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/CalculoDePi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/ExerciciosAula2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/ExerciciosAula3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/FolhaDePagamento1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/FolhaDePagamento1ComFuncoes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/FolhaDePagamento2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Gasolina1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Gasolina2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Gasolina2ComFuncoes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/.idea/Lista de Exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Lista de Exercicios/lista9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/MegaSenaHonda.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/MegaSenaHondaComFuncoes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/TamanhoDeArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/Tempo entre arrays.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/TorreDeHanoiAula5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/UniParaBiDimensional.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/UniParaBiDimensional.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Atividades/VariasDimensoesArray.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Calculadora/IdeiaQuaseFuncionando.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploAula1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemploDosAlunos.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosAula2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExemplosAula3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste6.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2yQFPi8o1JUcBKs1X4yWz5MbJeh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ExemploAula1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="0318 Exemplo_Aula1_Print" TARGET_NAME="ExemploAula1.c" CONFIG_NAME="ExemploAula1.c">
+      <option name="sourceFile" value="ExemploAula1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75804a7c-b491-4c6f-8fbe-c0ff4a156e03" name="Changes" comment="" />
+      <created>1749758867216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749758867216</updated>
+      <workItem from="1749758868355" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
