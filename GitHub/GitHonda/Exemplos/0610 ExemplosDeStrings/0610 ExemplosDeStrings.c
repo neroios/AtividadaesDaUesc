@@ -6,15 +6,16 @@ int main(){
 
     int tam_array = 100;
 
-    //char name[tam_array];   // Para strings
+    char name[tam_array];   // Para strings
 
-    char name[] = {'j','a','o',' ', 'd','a',' ','s','i','l','v','a'};
-    //gets(name);   // Coloca dentro da string
+    //char name[] = {'j','a','o',' ', 'd','a',' ','s','i','l','v','a', '\0'};
+    char name2[] = {'a','l','l','o','s', '\0'};
+    gets(name);   // Coloca dentro da string
 
 
     int total;
-    // total = strlen(name) - 1; // Pega o total de caracteres incluindo o espaco mas nao o /0 no final
-     total = strlen(name) - 2; // Aqui caso seja declarado como um array de caracteres e nao uma string diretamente
+     total = strlen(name) - 1; // Pega o total de caracteres incluindo o espaco mas nao o /0 no final
+     //total = strlen(name) - 2; // Aqui caso seja declarado como um array de caracteres e nao uma string diretamente
 
     // Printa o nome em letras minusculas
     printf("\nYour name in lowercase -> ");
@@ -30,6 +31,14 @@ int main(){
     }
 
 
+    // Concatenacao
+    strcat(name, name2);
+    printf("\n\nOs arrays juntos -> %s", name);
+
+    // Copiar um Array no outro
+    strcpy(name, name2);
+
+    printf("\n\nArrays Copiados um no outro: Novo Array 1 -> %s ||| Array 2 -> %s", name, name2);
 
     int cont = 0;
     // primeira letra maiuscula
@@ -50,8 +59,6 @@ int main(){
        else  // Caso nada acima seja feito, ele so imprime o caractere
             printf("%c", name[i]);
    }
-
-
 
 
     int placehoder;

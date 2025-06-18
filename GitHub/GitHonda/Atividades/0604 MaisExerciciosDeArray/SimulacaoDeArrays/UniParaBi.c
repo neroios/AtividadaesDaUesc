@@ -3,6 +3,15 @@
 
 // Funcao para printar o array
 // linha, coluna, contador, coluna, array
+
+
+/**
+ *
+ * @param lin
+ * @param cont
+ * @param col
+ * @param meuArray
+ */
 void printaArray(int lin, int cont, int col, int meuArray[]) {
 
 	for(int j = 0; j < lin; j++){
@@ -17,10 +26,19 @@ void printaArray(int lin, int cont, int col, int meuArray[]) {
 
 	// Funcao para mostrar qual o indice foi escolhido e qual item corresponde
 	// indice da linha, indice da coluna, pega linha, pega coluna, array
+/**
+ * @brief indice da linha, indice da coluna, pega linha, pega coluna, array, Funcao para mostrar qual o indice foi escolhido e qual item corresponde
+ * @param indice_lin
+ * @param indice_col
+ * @param pega_lin
+ * @param col
+ * @param array
+ */
 void printTarget(int indice_lin, int indice_col, int pega_lin, int col, int array[]) {
 	printf("O valor no indice Linha %d e Coluna %d -> %d", pega_lin, indice_col, array[(indice_lin + indice_col - col - 1)]);
 
 }
+
 
 int main(){
     int lin;
