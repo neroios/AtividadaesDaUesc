@@ -13,3 +13,5 @@ Lista7 -> Le um numero e converte ele num valor entre 1 e 6 usando o %
 Lista8 -> Faz a soma de todos os numeros ate N
 
 Lista10 -> Mostra a diagonal, perimetro e area de um quadrado
+
+Nao Concluido
